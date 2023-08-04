@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/Qf8WiP9.png" width="500"/>
+  <img src="https://i.imgur.com/Qf8WiP9.png" width="400"/>
 </p>
 
 ### 👨‍💻 Current activities
