@@ -31,7 +31,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat&logo=php&logoColor=837cc2)
 
-![Windows](https://img.shields.io/badge/Windows-black?style=flat&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=4da9f0)
 ![Android](https://img.shields.io/badge/Android-black?style=flat&logo=android&logoColor=green)
 
