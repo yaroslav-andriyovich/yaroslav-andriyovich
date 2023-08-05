@@ -16,23 +16,24 @@
 
 ### 👨‍💻 Current activities
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp&logoColor=9d00ff)
+![Rider](https://img.shields.io/badge/Rider-black.svg?style=flat&logo=Rider&logoColor=e820e5&color=black)
 
 ### :raised_hands: Studied as a hobby
 
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-black?logo=visualstudiocode&logoColor=007ACC&style=flat)
+![HTML](https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=ff0000)
+![CSS](https://img.shields.io/badge/CSS-black?&style=flat&logo=css3&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-black?style=flat&logo=jquery&logoColor=007ACC)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=007ACC)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat&logo=php&logoColor=837cc2)
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-black?style=flat&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=4da9f0)
 
 ### :iphone: Contacts
 
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />](https://t.me/BlackWindX)
+[<img src="https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram&logoColor=white" />](https://t.me/BlackWindX)
