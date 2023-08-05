@@ -33,6 +33,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=4da9f0)
+![Android](https://img.shields.io/badge/Android-black?style=flat&logo=android&logoColor=green)
 
 ### :iphone: Contacts
 
