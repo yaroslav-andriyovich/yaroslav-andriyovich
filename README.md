@@ -7,11 +7,8 @@
 </p>
 
 <p align="center">
-  <samp> Hello, my name is Yaroslav. I am a :mortar_board: Bachelor of Computer Engineering and an aspiring game developer on Unity. </samp>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/Qf8WiP9.png" width="400"/>
+  <samp> Hello, my name is Yaroslav. <br/>
+    I am a :mortar_board: Bachelor of Computer Engineering and an aspiring game developer on Unity. </samp>
 </p>
 
 ### 👨‍💻 Current activities
@@ -19,6 +16,11 @@
 ![Unity](https://img.shields.io/badge/Unity-black?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp&logoColor=9d00ff)
 ![Rider](https://img.shields.io/badge/Rider-black.svg?style=flat&logo=Rider&logoColor=e820e5&color=black)
+
+<p>I practice proper code architecture and also have experience with the following plugins: <b>DOTWeen, Zenject</b>.</p>
+<p align="left">
+  <img src="https://i.imgur.com/Qf8WiP9.png" width="400"/>
+</p>
 
 ### :raised_hands: Studied as a hobby
 
