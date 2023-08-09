@@ -31,6 +31,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-black?style=flat&logo=jquery&logoColor=007ACC)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=007ACC)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat&logo=socket.io&logoColor=fff)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat&logo=php&logoColor=837cc2)
 
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&logoColor=007ACC)
