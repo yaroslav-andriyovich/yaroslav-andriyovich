@@ -17,7 +17,7 @@
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp&logoColor=9d00ff)
 ![Rider](https://img.shields.io/badge/Rider-black.svg?style=flat&logo=Rider&logoColor=e820e5&color=black)
 
-<p>I practice proper code architecture and also have experience with the following plugins: <b><a href="https://github.com/modesttree/Zenject">Zenject</a>, <a href="https://github.com/Demigiant/dotween">DOTween</a>, <a href="https://github.com/Real-Serious-Games/C-Sharp-Promise">Promise</a></b>.</p>
+<p>I practice proper code architecture and also have experience with the following plugins: <b><a href="https://github.com/modesttree/Zenject">Zenject</a>, <a href="https://github.com/Demigiant/dotween">DOTween</a>, <a href="https://github.com/Cysharp/UniTask">UniTask</a>, <a href="https://github.com/Real-Serious-Games/C-Sharp-Promise">Promise</a></b>.</p>
 <p align="left">
   <img src="https://i.imgur.com/Qf8WiP9.png" width="400"/>
 </p>
